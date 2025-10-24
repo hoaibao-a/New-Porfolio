@@ -1,25 +1,25 @@
 {
-  "name": "Nguyen Thi Ngoc Thuy",
-  "tagline": "Graphic Designer | UI/UX | Marketing",
+  "name": "Nguyen Thi Ngoc Hue",
+  "tagline": "Digital Marketing Student",
   "profile_picture_url": "images/avatar/avatar.png",
-  "bio_short": "A passionate graphic and illustration designer, always seeking opportunities to create unique and creative visual experiences.",
-  "bio_long": "With over 4 years of experience in graphic design, I have participated in diverse projects, especially in the spa, cosmetics, and beauty industry. From brand identity development, product packaging design to website interfaces and advertising materials, I always focus on expressing elegance, sophistication, and visual emotions suitable for these sectors. I continuously learn and am ready to face challenges to develop my skills and bring innovative, breakthrough creative values to clients. My design style is a combination of modern aesthetics and fresh, gentle vibes.",
-  "contact_email": "ngocthuydesign1012@gmail.com",
-  "phone_number": "0908875706",
+  "bio_short": "Digital Marketing Student | Social Media & Brand Communication Enthusiast.",
+  "bio_long": "I am a Digital Marketing student at Van Lang University, passionate about working in a dynamic and creative environment where I can apply my knowledge and gain practical experience. | I have a strong interest in social media communication, content creation, and marketing campaign optimization. | With a learning mindset, I continuously strive to improve my skills and become a professional, innovative marketer who can bring fresh perspectives to every project.",
+  "contact_email": "nguyenngochue052@gmail.com",
+  "phone_number": "0344794500",
   "social_links": [
     {
       "platform": "Behance",
-      "url": "https://www.behance.net/ngcthynguynth",
+      "url": "https://www.behance.net/hunguynngc4",
       "icon_class": "./images/Icon_socical/behance.png"
     },
     {
       "platform": "Facebook",
-      "url": "https://www.facebook.com/thuynguyet1012",
+      "url": "https://www.facebook.com/mooncungne",
       "icon_class": "./images/Icon_socical/facebook.png"
     },
     {
       "platform": "Zalo",
-      "url": "https://zalo.me/0908875706",
+      "url": "https://zalo.me/0344794500",
       "icon_class": "./images/Icon_socical/zalo.png"
     },
     {
@@ -29,66 +29,54 @@
     }
   ],
   "skills_technical": [
-    "UI/UX Design",
-    "Vector Illustration",
-    "Branding & Identity",
-    "Packaging Design",
-    "Typography",
-    "Adobe Photoshop",
-    "Adobe Illustrator",
-    "Figma (basic)",
-    "Color Coordination",
-    "Layout Processing"
+    "Microsoft Office",
+    "Critical Thinking",
+    "Digital Marketing",
+    "Marketing",
+    "Teamwork",
+    "Content Marketing",
+    "Team Leadership",
+    "Market Research",
+    "Communication",
+    "Customer Service",
+    "Online Sales",
+    "Sale Conslting",
+    "Amos/ SPSS (basic)"
   ],
   "skills_software": [
     "Adobe Photoshop",
     "Adobe Illustrator",
-    "Figma",
-    "Adobe InDesign"
+    "Adobe Premiere",
+    "Microsoft Office",
+    "Capcut",
+    "Canva",
+    "Google Space",
+    "SPSS",
+    "AMOS"
   ],
   "work_experience": [
     {
-      "job_title": "Freelance Graphic Designer",
-      "company_name": "Freelance / Individual & Corporate Clients",
+      "job_title": "Content & Customer Service Collaborator",
+      "company_name": "Hạnh Phúc Wedding Decor – Hồ Chí Minh City",
       "company_logo_url": "images/icon_experience/icon_cay_co.png",
-      "duration": "07/2021 - Present",
+      "duration": "09/2023 - Present",
       "responsibilities": [
-        "Designed logos, posters, and GDN for companies such as Leadup, Phát Đạt.",
-        "Executed UI design for web projects in football and finance sectors.",
-        "Built brand identity systems for clients in dental care, spa, and cosmetics fields."
+        "Created and managed social media content on Facebook Fanpage (concept introductions, customer feedback, mini games).",
+        "Consulted on service packages, pricing, and customer care via messages and calls.",
+        "Supported photo and video production during bridal events and marketing campaigns.",
+        "Contributed to monthly Fanpage engagement growth and customer acquisition."
       ]
     },
     {
-      "job_title": "Graphic Designer",
-      "company_name": "BING AGENCY Media & Solutions Co., Ltd.",
+      "job_title": "Sales Staff - Cosmetics",
+      "company_name": "The Beauty Kiwi - Hồ Chí Minh City",
       "company_logo_url": "images/icon_experience/icon_cay_co.png",
-      "duration": "",
+      "duration": "02/2022 - 09/2023",
       "responsibilities": [
-        "Assigned and reviewed designs from the design team.",
-        "Directly worked with clients and content teams to develop visual concepts.",
-        "Designed images for spas, beauty products, and e-commerce platforms (Shopee, Lazada, TikTok Live, etc.)."
-      ]
-    },
-    {
-      "job_title": "Graphic Designer",
-      "company_name": "E-EXPO Trade Promotion Consortium Company",
-      "company_logo_url": "images/icon_experience/icon_cay_co.png",
-      "duration": "",
-      "responsibilities": [
-        "Supported and edited designs for team members.",
-        "Designed images for fanpages and websites.",
-        "Created SEO images and visuals for clinics and dental care."
-      ]
-    },
-    {
-      "job_title": "Graphic Designer",
-      "company_name": "Your Media Advertising & Communication Co., Ltd.",
-      "company_logo_url": "images/icon_experience/icon_cay_co.png",
-      "duration": "",
-      "responsibilities": [
-        "Designed fanpage images for various beauty and health brands.",
-        "Cooperated with content teams to produce media visuals.",
-        "Designed according to campaigns and brand directions."
+        "Advised customers on suitable cosmetic products based on their skin type and preferences.",
+        "Closed online and offline sales, achieving an average of 50 or 100 orders per month.",
+        "Learned how to handle customer feedback and provide post-purchase care to improve satisfaction."
+
       ]
     }
   ]
